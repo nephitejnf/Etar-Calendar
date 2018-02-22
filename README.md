@@ -1,15 +1,17 @@
-![Etar Calendar](./assets/_pre_prod/Feature%20Graphic.png)
-# Etar Calendar
-Etar (from Arabic:  `إِيتَار`)  is an open source material designed calendar made for everyone!
+
+# Genediad Veleg
+Genedid Veleg coming from the Sindarin for Great Calendar is based on Etar!
 
 [![](./assets/_pre_prod/en_fdroid.png)](https://f-droid.org/app/ws.xsoh.etar)[![](./assets/_pre_prod/en_google_play.png)](https://play.google.com/store/apps/details?id=ws.xsoh.etar)
 
 ![Etar Calendar](./assets/_pre_prod/publish/v1.0/animation.gif)
 
 ## Why?
-Well, I wanted a simple, material designed and state of the art open source calendar that anyone can make it better.
+Well, I wanted a calendar planner that was similar to the planner used by LDS missionaries.
 
 ## Special thanks
+
+[Etar Calendar project](https://github.com/xsoh/Etar-Calendar)
 
 The application is an enhanced version of AOSP Calendar. Without the help of
 [Free Software for Android](https://github.com/Free-Software-for-Android/Standalone-Calendar) team, 
@@ -22,9 +24,11 @@ this app would be just a dream. So thanks to them!
 - Material designed.
 - Agenda widget.
 
-## Contribute
-### Translations in Google Play app description
-You can update/add your own language [here](./assets/_pre_prod/publish/v1.0/features/). Also, all artwork files are available [here](./assets/_pre_prod/)
+## Future Features
+- Goals (Daily, Weekly, Monthly... maybe yearly)
+- Todo lists
+- Study section (Both spiritual and secular)
+- Notes
 
 ### Build instructions
 ```
