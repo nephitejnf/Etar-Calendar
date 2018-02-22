@@ -2,8 +2,6 @@
 # Genediad Veleg
 Genedid Veleg coming from the Sindarin for Great Calendar is based on Etar!
 
-[![](./assets/_pre_prod/en_fdroid.png)](https://f-droid.org/app/ws.xsoh.etar)[![](./assets/_pre_prod/en_google_play.png)](https://play.google.com/store/apps/details?id=ws.xsoh.etar)
-
 ![Etar Calendar](./assets/_pre_prod/publish/v1.0/animation.gif)
 
 ## Why?
